@@ -2,9 +2,9 @@
 
 A responsible and self-motivated developer with good eye for design who takes immense pride in her work. with over 9 years  experience.
 
-- 🔭 I’m currently working on ... React Native
-- 🌱 I’m currently learning ... NodeJS
-- 🤔 I’m looking for help with ... ReactJS/React Native
+- 🔭 I’m currently working on ... nextjs
+- 🌱 I’m currently learning ... ai
+- 🤔 I’m looking for help with ... ReactJS
 - 💬 Ask me about ... anything around front-end
 - 📫 How to reach me: ... drop a line to kangari.leyla@gmail.com
 - 😄 Pronouns: ... leyli
